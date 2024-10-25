@@ -1,0 +1,16 @@
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f6f9;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.chart-container {
+  margin: 30px auto;
+  width: 80%;
+}
